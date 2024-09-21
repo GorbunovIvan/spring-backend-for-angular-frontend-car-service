@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>spring-backend-for-react-js-frontend-car-service</artifactId>
+    <artifactId>spring-backend-for-angular-frontend-car-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-backend-for-react-js-frontend-car-service</name>
-    <description>spring-backend-for-react-js-frontend-car-service</description>
+    <name>spring-backend-for-angular-frontend-car-service</name>
+    <description>spring-backend-for-angular-frontend-car-service</description>
     <url/>
     <licenses>
         <license/>
